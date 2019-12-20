@@ -1,0 +1,3 @@
+﻿  module.cpp
+c:\users\superpc\source\repos\laba9\module.cpp(22): warning C4018: >=: несоответствие типов со знаком и без знака
+  Laba9.vcxproj -> C:\Users\SuperPC\source\repos\Debug\Laba9.exe
